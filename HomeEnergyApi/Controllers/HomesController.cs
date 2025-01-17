@@ -59,7 +59,6 @@ namespace HomeEnergyUsageApi.Controllers
                     return deletedHome;
                 }
             }
-            return null;
         }
     }
 }
