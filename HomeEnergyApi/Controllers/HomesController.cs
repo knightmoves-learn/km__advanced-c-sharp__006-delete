@@ -56,9 +56,9 @@ namespace HomeEnergyUsageApi.Controllers
                 {
                     var deletedHome = homesList[i];
                     homesList.Remove(deletedHome);
-                    return deletedHome;
                 }
             }
+            return null;
         }
     }
 }
