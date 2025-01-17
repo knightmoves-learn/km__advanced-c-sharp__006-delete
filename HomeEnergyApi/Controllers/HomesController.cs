@@ -48,11 +48,11 @@ namespace HomeEnergyUsageApi.Controllers
 
         [HttpDelete("{id}")]
 
-        public Home Remove([FromBody] Home home, [FromRoute] int id)
+        public Home Remove(int id)
         {
             for (int i = 0; i < homesList.Count; i++)
             {
-                if (home.id == id)
+                if (homesList[i].id == id)
                 {
                     var deletedHome = homesList[i];
                     homesList.Remove(deletedHome);
