@@ -14,8 +14,10 @@ In `HomeEnergyApi/Controllers/HomesController.cs`...
 - Create a new HTTP DELETE method
   - This method should take one route parameter, off of the initial route `/Homes`.
   - This method should delete a specific `Home` from the list `homesList`.
-  - The Home being deleted, should be the `Home` in `homesList` whose `id` property is the same as the route parameter being passed in to your new PUT method.
+  - The Home being deleted, should be the `Home` in `homesList` whose `id` property is the same as the route parameter being passed in to your new DELETE method.
     - Hint: Unlike the code examples in the lecture, you cannot assume homesList is sorted by `id`. The `Home` with an `id` of 2, may not necessarily be the `Home` at `homesList[2]`
+  - This method should return the Home being deleted.
+  - If no home matching the `Id` that is passed as a route parameter can be found, return `null`
 - Verify HomeEnergyApi can...
   - Get homes existing in the static list `homesList` from its GET method.
   - Get a specific home existing in the static list `homesList` from its GET `FindById()` method.
