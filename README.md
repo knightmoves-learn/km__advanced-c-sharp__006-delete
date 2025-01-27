@@ -2,8 +2,8 @@
 
 ## Lecture
 
-[![006 Delete (Part 1)](https://img.youtube.com/vi/TjI_fPge9fo/0.jpg)](https://www.youtube.com/watch?v=TjI_fPge9fo)
-[![006 Delete (Part 2)](https://img.youtube.com/vi/TJuVWZXdKtY/0.jpg)](https://www.youtube.com/watch?v=TJuVWZXdKtY)
+[![006 Delete](https://img.youtube.com/vi/MUKFO7-vijs/0.jpg)](https://youtu.be/MUKFO7-vijs)
+
 
 ## Instructions
 
