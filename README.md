@@ -2,7 +2,7 @@
 
 ## Lecture
 
-[![006 Delete](https://img.youtube.com/vi/MUKFO7-vijs/0.jpg)](https://youtu.be/MUKFO7-vijs)
+[![006 Delete](https://img.youtube.com/vi/https://youtu.be/MUKFO7-vijs/0.jpg)](https://youtu.be/MUKFO7-vijs)
 
 
 ## Instructions
